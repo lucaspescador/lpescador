@@ -11428,8 +11428,12 @@ header.masthead h1, header.masthead .h1 {
 }
 
 .icon-black{
-  margin-left: 40px;
+  font-size: 100px;
   color:#212529;
+}
+
+.icon-black:hover{
+  opacity: 0.75;
 }
 
 .custom-shape-divider-bottom-1650158042 {
