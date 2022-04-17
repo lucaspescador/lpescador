@@ -11456,3 +11456,23 @@ header.masthead h1, header.masthead .h1 {
 .custom-shape-divider-bottom-1650158042 .shape-fill {
   fill: #F8F9FA;
 }
+
+.custom-shape-divider-bottom-1650199794 {
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1650199794 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 90px;
+}
+
+.custom-shape-divider-bottom-1650199794 .shape-fill {
+  fill: #212529;
+}
