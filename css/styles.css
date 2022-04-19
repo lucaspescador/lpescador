@@ -11262,7 +11262,7 @@ body {
 }
 
 .page-section {
-  padding: 8rem 0;
+  padding: 5rem 0;
 }
 
 .text-white-75 {
@@ -11353,7 +11353,8 @@ hr.divider-light {
 }
 
 header.masthead {
-  padding-top: 10rem;
+  position: relative;
+  padding-top: 5rem;
   padding-bottom: calc(10rem - 4.5rem);
   background-position: center;
   background-repeat: no-repeat;
@@ -11368,7 +11369,6 @@ header.masthead h1, header.masthead .h1 {
     height: 100vh;
     min-height: 40rem;
     padding-top: 4.5rem;
-    padding-bottom: 0;
   }
   header.masthead p {
     font-size: 1.15rem;
@@ -11436,27 +11436,6 @@ header.masthead h1, header.masthead .h1 {
   opacity: 0.75;
 }
 
-.custom-shape-divider-bottom-1650158042 {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  overflow: hidden;
-  line-height: 0;
-  transform: rotate(180deg);
-}
-
-.custom-shape-divider-bottom-1650158042 svg {
-  position: relative;
-  display: block;
-  width: calc(100% + 1.3px);
-  height: 90px;
-}
-
-.custom-shape-divider-bottom-1650158042 .shape-fill {
-  fill: #F8F9FA;
-}
-
 .custom-shape-divider-bottom-1650199794 {
   bottom: 0;
   left: 0;
@@ -11475,4 +11454,25 @@ header.masthead h1, header.masthead .h1 {
 
 .custom-shape-divider-bottom-1650199794 .shape-fill {
   fill: #212529;
+}
+
+.custom-shape-divider-bottom-1650370665 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1650370665 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 100px;
+}
+
+.custom-shape-divider-bottom-1650370665 .shape-fill {
+  fill: #F8F9FA;
 }
