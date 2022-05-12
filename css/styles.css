@@ -11422,6 +11422,7 @@ header.masthead h1, header.masthead .h1 {
 
 .profile{
     border-radius: 50%;
+    width: 50%;
 }
 
 .icon{
