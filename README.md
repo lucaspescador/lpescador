@@ -3,7 +3,7 @@
     <img src="assets/img/favicon-32x32.png" alt="Logo">
   </a>
 
-  <h3 align="center">Lucas Camargo | Front-End Developer</h3>
+  <h3 align="center">Lucas Camargo | Software Developer</h3>
 
   <p align="center">
     My personal portfolio website
